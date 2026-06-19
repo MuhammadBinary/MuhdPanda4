@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MuhdPanda4</string>
+    <string name="accessibility_description">Allows MuhdPanda4 to read and interact with your screen when you ask it to control your phone.</string>
+</resources>
